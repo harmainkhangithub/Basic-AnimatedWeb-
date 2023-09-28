@@ -1,2 +1,2 @@
-# Basic-AnimatedWeb-
+# animated
 Simple Animated Web on React Js
